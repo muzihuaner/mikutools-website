@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[10],{1077:function(n,e,t){n.exports={}},997:function(n,e,t){"use strict";var o=t(1),r=t(640),c=t.n(r),w=t(2057),d=t(1076),f=t.n(d);w.VXETable.setup({i18n:function(n,e){return c.a.toFormatString(c.a.get(f.a,n),e)}}),o.default.use(w.Header).use(w.Column).use(w.Table)}}]);

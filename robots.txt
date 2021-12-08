@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: https://tools.miku.ac/sitemap.xml
